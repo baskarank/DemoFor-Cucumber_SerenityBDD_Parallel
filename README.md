@@ -6,6 +6,9 @@
 This is the simplest possible build script setup for Cucumber using Java. 
 The idea for this project is stolen from/inspired by the Cucumber Java Skeleton project (https://github.com/cucumber/cucumber-java-skeleton).
 
+Note: Learning of BDD is only started from john and continuing my learning. you are the inspiration for us in BDD Test Automation.
+This is not the completed example code, I will udpate the Readme.md file with the releavant credit where i get this idea and implemented this sample project. 
+
 This is a very minimal sample project using Cucumber and Serenity BDD in Java. 
 You can use this project as a quick starting point for your own projects.
 
